@@ -1,5 +1,5 @@
 # libft
-42 Curriculum - Custom C library project
+42 Curriculum (Level 0) - Custom C library project
 
 ## Use
 
